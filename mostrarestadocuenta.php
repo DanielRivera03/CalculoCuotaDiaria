@@ -206,7 +206,7 @@
                         <th>Producto</th>
                         <th>Estado</th>
                         <th>&Uacute;ltima Fecha de Pago</th>
-                        <th>Cuota Mensual</th>
+                        <th>Cuota Diaria</th>
                         <th>Capital</th>
                         <th>Saldo Final</th>
                     </tr>
